@@ -5,6 +5,15 @@ import java.io.DataOutputStream;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+/*
+ 	 * DataOutputStream & DataInputStream 用于操作基本数据类型 
+     *   
+     * ByteArrayInputStream   &  ByteArrayOutputStream 用于操作字节数组。 
+     *   
+     * CharArrayReader  &   CharArrayWriter  用于操作字符数组 
+     *   
+     * StringReader  &  StringWriter  用于操作字符串。 
+ */
 
 public class DataStream {
 	public static void main(String[] args) {
